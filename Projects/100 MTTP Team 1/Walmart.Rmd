@@ -1,0 +1,40 @@
+```{r}
+install.packages("corrr")
+library('corrr')
+```
+```{r}
+install.packages("ggcorrplot")
+library(ggcorrplot)
+```
+```{r}
+install.packages("FactoMineR")
+library("FactoMineR")
+```
+
+```{r}
+Walmart_Simplified <- read.csv("/Users/laurenpetty/Downloads/Walmart_Simplified_Transposed2.csv")
+str(Walmart_Simplified)
+```
+
+```{r}
+colSums(is.na(Walmart_Simplified))
+```
+
+```{r}
+numerical_data <- Walmart_Simplified[, 2:10]
+
+head(numerical_data)
+```
+
+
+
+
+```{r}
+data_normalized <- scale(numerical_data)
+head(data_normalized)
+```
+```{r}
+corr_matrix <- cor(data_normalized)
+ggcorrplot(corr_matrix)
+```
+
