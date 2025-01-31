@@ -1,4 +1,4 @@
-# Welcome to My GitHub Portfolio
+# Welcome to My GitHub Projects Repository
 
 ## About This Repository
 This GitHub serves as a collection of my past work, including projects I've completed for school and personal endeavors. It showcases my growth as a developer, my interests in various technologies, and my problem-solving skills.
