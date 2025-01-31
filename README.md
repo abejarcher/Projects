@@ -19,7 +19,7 @@ I have worked with a variety of programming languages and tools, including but n
 Feel free to explore the different repositories and projects. Each project folder typically contains a README file explaining its purpose, how to set it up, and how it works.
 
 ## Contact & Feedback
-If you have any questions, suggestions, or feedback, feel free to reach out via GitHub Issues or connect with me on LinkedIn.
+If you have any questions, suggestions, or feedback, feel free to reach out via GitHub Issues or connect with me on LinkedIn or email me at archerabe@gmail.com.
 
 ---
 
