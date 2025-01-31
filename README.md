@@ -18,6 +18,8 @@ I have worked with a variety of programming languages and tools, including but n
 ## How to Use This Repository
 Feel free to explore the different repositories and projects. Each project folder typically contains a README file explaining its purpose, how to set it up, and how it works.
 
+For the collaborative projects I've worked on there is a reports directory which contains presentations and an in depth report on the discoveries that was concluded from the data, and provide insight into how my group went about executing the process to get our project completed. There are folders containing the elements of each project that are organized by there purpose.
+
 ## Contact & Feedback
 If you have any questions, suggestions, or feedback, feel free to reach out via GitHub Issues or connect with me on LinkedIn or email me at archerabe@gmail.com.
 
