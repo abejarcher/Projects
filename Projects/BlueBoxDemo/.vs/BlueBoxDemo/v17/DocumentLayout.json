@@ -1,0 +1,151 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\abea\\source\\repos\\BlueBoxDemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{93148991-151A-4E6E-9FE6-8A87D6B5E299}|BlueBoxDemo\\BlueBoxDemo.csproj|C:\\Users\\abea\\source\\repos\\BlueBoxDemo\\blueboxdemo\\blueboxrent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{93148991-151A-4E6E-9FE6-8A87D6B5E299}|BlueBoxDemo\\BlueBoxDemo.csproj|solutionrelative:blueboxdemo\\blueboxrent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93148991-151A-4E6E-9FE6-8A87D6B5E299}|BlueBoxDemo\\BlueBoxDemo.csproj|c:\\users\\abea\\source\\repos\\blueboxdemo\\blueboxdemo\\blueboxrent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93148991-151A-4E6E-9FE6-8A87D6B5E299}|BlueBoxDemo\\BlueBoxDemo.csproj|solutionrelative:blueboxdemo\\blueboxrent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93148991-151A-4E6E-9FE6-8A87D6B5E299}|BlueBoxDemo\\BlueBoxDemo.csproj|C:\\Users\\abea\\source\\repos\\BlueBoxDemo\\blueboxdemo\\blueboxtransactions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{93148991-151A-4E6E-9FE6-8A87D6B5E299}|BlueBoxDemo\\BlueBoxDemo.csproj|solutionrelative:blueboxdemo\\blueboxtransactions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93148991-151A-4E6E-9FE6-8A87D6B5E299}|BlueBoxDemo\\BlueBoxDemo.csproj|c:\\users\\abea\\source\\repos\\blueboxdemo\\blueboxdemo\\blueboxtransactions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93148991-151A-4E6E-9FE6-8A87D6B5E299}|BlueBoxDemo\\BlueBoxDemo.csproj|solutionrelative:blueboxdemo\\blueboxtransactions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93148991-151A-4E6E-9FE6-8A87D6B5E299}|BlueBoxDemo\\BlueBoxDemo.csproj|C:\\Users\\abea\\source\\repos\\BlueBoxDemo\\blueboxdemo\\blueboxmovies.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{93148991-151A-4E6E-9FE6-8A87D6B5E299}|BlueBoxDemo\\BlueBoxDemo.csproj|solutionrelative:blueboxdemo\\blueboxmovies.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93148991-151A-4E6E-9FE6-8A87D6B5E299}|BlueBoxDemo\\BlueBoxDemo.csproj|C:\\Users\\abea\\source\\repos\\BlueBoxDemo\\blueboxdemo\\blueboxlocations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{93148991-151A-4E6E-9FE6-8A87D6B5E299}|BlueBoxDemo\\BlueBoxDemo.csproj|solutionrelative:blueboxdemo\\blueboxlocations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93148991-151A-4E6E-9FE6-8A87D6B5E299}|BlueBoxDemo\\BlueBoxDemo.csproj|c:\\users\\abea\\source\\repos\\blueboxdemo\\blueboxdemo\\blueboxrent.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93148991-151A-4E6E-9FE6-8A87D6B5E299}|BlueBoxDemo\\BlueBoxDemo.csproj|solutionrelative:blueboxdemo\\blueboxrent.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93148991-151A-4E6E-9FE6-8A87D6B5E299}|BlueBoxDemo\\BlueBoxDemo.csproj|C:\\Users\\abea\\source\\repos\\BlueBoxDemo\\blueboxdemo\\blueboxlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{93148991-151A-4E6E-9FE6-8A87D6B5E299}|BlueBoxDemo\\BlueBoxDemo.csproj|solutionrelative:blueboxdemo\\blueboxlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BlueBoxMovies.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\abea\\source\\repos\\BlueBoxDemo\\BlueBoxDemo\\BlueBoxMovies.cs",
+              "RelativeDocumentMoniker": "BlueBoxDemo\\BlueBoxMovies.cs",
+              "ToolTip": "C:\\Users\\abea\\source\\repos\\BlueBoxDemo\\BlueBoxDemo\\BlueBoxMovies.cs [Design]",
+              "RelativeToolTip": "BlueBoxDemo\\BlueBoxMovies.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T17:07:36.924Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BlueBoxLocations.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\abea\\source\\repos\\BlueBoxDemo\\BlueBoxDemo\\BlueBoxLocations.cs",
+              "RelativeDocumentMoniker": "BlueBoxDemo\\BlueBoxLocations.cs",
+              "ToolTip": "C:\\Users\\abea\\source\\repos\\BlueBoxDemo\\BlueBoxDemo\\BlueBoxLocations.cs [Design]",
+              "RelativeToolTip": "BlueBoxDemo\\BlueBoxLocations.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T17:06:11.656Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BlueBoxLogin.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\abea\\source\\repos\\BlueBoxDemo\\BlueBoxDemo\\BlueBoxLogin.cs",
+              "RelativeDocumentMoniker": "BlueBoxDemo\\BlueBoxLogin.cs",
+              "ToolTip": "C:\\Users\\abea\\source\\repos\\BlueBoxDemo\\BlueBoxDemo\\BlueBoxLogin.cs [Design]",
+              "RelativeToolTip": "BlueBoxDemo\\BlueBoxLogin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T17:05:50.212Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BlueBoxTransactions.cs",
+              "DocumentMoniker": "C:\\Users\\abea\\source\\repos\\BlueBoxDemo\\BlueBoxDemo\\BlueBoxTransactions.cs",
+              "RelativeDocumentMoniker": "BlueBoxDemo\\BlueBoxTransactions.cs",
+              "ToolTip": "C:\\Users\\abea\\source\\repos\\BlueBoxDemo\\BlueBoxDemo\\BlueBoxTransactions.cs",
+              "RelativeToolTip": "BlueBoxDemo\\BlueBoxTransactions.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAiwBoAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T16:16:56.086Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BlueBoxTransactions.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\abea\\source\\repos\\BlueBoxDemo\\BlueBoxDemo\\BlueBoxTransactions.cs",
+              "RelativeDocumentMoniker": "BlueBoxDemo\\BlueBoxTransactions.cs",
+              "ToolTip": "C:\\Users\\abea\\source\\repos\\BlueBoxDemo\\BlueBoxDemo\\BlueBoxTransactions.cs [Design]",
+              "RelativeToolTip": "BlueBoxDemo\\BlueBoxTransactions.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T16:16:50.541Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BlueBoxRent.cs",
+              "DocumentMoniker": "C:\\Users\\abea\\source\\repos\\BlueBoxDemo\\BlueBoxDemo\\BlueBoxRent.cs",
+              "RelativeDocumentMoniker": "BlueBoxDemo\\BlueBoxRent.cs",
+              "ToolTip": "C:\\Users\\abea\\source\\repos\\BlueBoxDemo\\BlueBoxDemo\\BlueBoxRent.cs",
+              "RelativeToolTip": "BlueBoxDemo\\BlueBoxRent.cs",
+              "ViewState": "AgIAAFcAAAAAAAAAAAAAAG4AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T15:58:39.087Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BlueBoxRent.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\abea\\source\\repos\\BlueBoxDemo\\BlueBoxDemo\\BlueBoxRent.cs",
+              "RelativeDocumentMoniker": "BlueBoxDemo\\BlueBoxRent.cs",
+              "ToolTip": "C:\\Users\\abea\\source\\repos\\BlueBoxDemo\\BlueBoxDemo\\BlueBoxRent.cs [Design]",
+              "RelativeToolTip": "BlueBoxDemo\\BlueBoxRent.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T15:58:32.304Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BlueBoxRent.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\abea\\source\\repos\\BlueBoxDemo\\BlueBoxDemo\\BlueBoxRent.Designer.cs",
+              "RelativeDocumentMoniker": "BlueBoxDemo\\BlueBoxRent.Designer.cs",
+              "ToolTip": "C:\\Users\\abea\\source\\repos\\BlueBoxDemo\\BlueBoxDemo\\BlueBoxRent.Designer.cs",
+              "RelativeToolTip": "BlueBoxDemo\\BlueBoxRent.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T15:58:28.858Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
