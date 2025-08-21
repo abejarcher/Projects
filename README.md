@@ -13,7 +13,8 @@ I have worked with a variety of programming languages and tools, including but n
 - Python
 - R
 - Tableau
-- APIs & Data Visualization Tools
+- C#
+- SQL
 
 ## How to Use This Repository
 Feel free to explore the different repositories and projects. Each project folder typically contains a README file explaining its purpose, how to set it up, and how it works.
@@ -25,5 +26,5 @@ If you have any questions, suggestions, or feedback, feel free to reach out via 
 
 ---
 
-Thank you for visiting my GitHub! I hope you find my projects interesting and insightful.
+Thank you for visiting my GitHub!
 
